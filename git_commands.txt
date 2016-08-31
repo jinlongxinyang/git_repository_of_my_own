@@ -6,4 +6,8 @@ git command
 4,git push
 5,git pull
 6,git status
-7,
+7,  https://github......     >>create a new repository
+     git remote add origin https://github.com/jinlongxinyang/django_project_01_of_JinLong.git
+	 git push -u origin master
+	 
+8,
