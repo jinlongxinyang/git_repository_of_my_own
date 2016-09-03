@@ -10,4 +10,5 @@ git command
      git remote add origin https://github.com/jinlongxinyang/django_project_01_of_JinLong.git
 	 git push -u origin master
 	 
-8,
+8,git branch
+9,9,9,9,9,9,9,9,9,
