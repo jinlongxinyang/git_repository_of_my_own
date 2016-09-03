@@ -1,6 +1,7 @@
 git command
 
 1,git add file_name
+commit 20160903T1206 +0800
 2,git commit -m 'jlfjwlief' file_name
 3,git push -u origin master
 4,git push
