@@ -5,6 +5,7 @@ commit 20160903T1206 +0800
 1+, git log -p -2
 2,git commit -m 'jlfjwlief' file_name
 3,git push -u origin master
+3+, git log --graph --online
 4,git push
 5,git pull
 6,git status
