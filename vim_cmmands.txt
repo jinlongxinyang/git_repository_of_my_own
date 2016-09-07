@@ -1,0 +1,8 @@
+
+
+1,install vim plug manager pathogen to install vim plugin vim-go(20160907W38WedT1151)
+    (1),apt-get install pathogen
+    (2),cd ~/.vim/autoload/ >> wget https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+    (3),mkdir ~/.vim/bundle/ >> git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
+    (4), vim ~/.vimrc >> add line "call pathogen#infect()" before line "filetype plugin indent on"
+    (5),source ~/.vimrc
