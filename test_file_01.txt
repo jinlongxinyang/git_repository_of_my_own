@@ -17,7 +17,12 @@ branch_02 hahaahahhah add
 branch_02 hahaahahhah add 02
 from twisted.internet import defer
 maybe you are right
+llss<<<<<<< HEAD
 master add after branch_04 made, maked conflict
+llss=======
+branch_04 add 02, maked conflict
+>>>>>>> branch_04
 
 
 what is wrong with me!!!!
+branch_04 add 01
