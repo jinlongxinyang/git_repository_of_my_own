@@ -1,0 +1,240 @@
+commit 2b5706ba9b00130a22fecb35edb580f7445aaa38
+Merge: 3d1d500 0b68410
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Thu Sep 8 07:58:24 2016 +0800
+
+    merge after conflict resolved
+
+commit 3d1d500c4f37de426239c90b10cc62d8e929a030
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Thu Sep 8 07:42:38 2016 +0800
+
+    master add after branch_04, maked conflict
+
+commit 0b684106be9a8099385da8354e630841a824ee4e
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Thu Sep 8 07:40:39 2016 +0800
+
+    branch_04 add 02, maked conflict
+
+commit e31765d9ebfb01f3c05bb4f83e593e257979ed41
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Thu Sep 8 07:39:32 2016 +0800
+
+    branch_04 add 01
+
+commit b7a3d96fe7a7f91df694b89ad403408eb60bf5a6
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Wed Sep 7 11:51:24 2016 +0800
+
+    vim use
+
+commit d781fcafc5ff16661a1bc1aaa481b7922c0cb221
+Merge: 67b1ee9 64db0a1
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 22:13:22 2016 +0800
+
+    Merge branch 'branch_02'
+
+commit 64db0a1ace08d6697da0148f980b72a75777542d
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 22:12:35 2016 +0800
+
+    branch_02 add 05
+
+commit d38aa924f5bffaa62efeaf486b06da83f664e11b
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 22:11:10 2016 +0800
+
+    branch_02 add 04
+
+commit 67b1ee9b7caafa5c3ebf94feb299cb837d7989a7
+Merge: 60c51de 462dd71
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:46:08 2016 +0800
+
+    Merge branch 'branch_03'
+
+commit 60c51deacd97065340733c2ba59571ad329fab33
+Merge: c5b2e25 489115c
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:43:00 2016 +0800
+
+    Merge branch 'branch_02'
+
+commit 462dd71c6eceb45f82193825ecf80f357440c9e2
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:40:00 2016 +0800
+
+    branch_03add 03
+
+commit 5ba3199761e0151f7e00bbfcaee1e23ed02bcbb1
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:26:57 2016 +0800
+
+    branch_03 add 02
+
+commit fc4a3b04b283d19e2f61cc7bfe2de9689cd247c0
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:23:07 2016 +0800
+
+    branch_03 add 01
+
+commit c5b2e255369c2dd2bc29a413135a9c3b44e5ab50
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 21:18:29 2016 +0800
+
+    brahch_01 add 03
+
+commit 489115c336a17f4ea0a1c14d6d0366fb4333d92b
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 08:54:59 2016 +0800
+
+    branch_02 add 02
+
+commit fd4493a464829faba42cf79b8c28597e22758fda
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 08:53:47 2016 +0800
+
+    branch_01 add 02
+
+commit 32c76e9d3d9a2e190fcd798dc487200575d53a9b
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 08:52:13 2016 +0800
+
+    branch_02 add
+
+commit 9044738aa42aaa3b30d1a348db091263c27f3d0c
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 08:50:53 2016 +0800
+
+    branch_01 add
+
+commit ebe735138571e656ac2a362ad6da73f97da49c43
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 08:42:05 2016 +0800
+
+    log --graph
+
+commit 7d993d76b700f6207a4a742136f767c405c33a99
+Merge: 772446b 641a741
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 01:45:09 2016 +0800
+
+    Merge branch 'testing_branch'
+
+commit 772446b1e690707f3ab54b92c4dbf872d3ec5345
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 01:40:08 2016 +0800
+
+    fjwlef
+
+commit 641a7414161b49789b8df13fdfa96751bbe83a7e
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 01:33:43 2016 +0800
+
+    testing branch commit 01
+
+commit 4ec2522664a20bbc9b4275e2508968ba213952af
+Merge: a92c262 d618b01
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 01:30:46 2016 +0800
+
+    Merge branch 'master' of https://github.com/jinlongxinyang/git_repository_of_my_own
+
+commit a92c26219556daa55a040eeaa23775fdc650fd0d
+Merge: d2de4bb d5705a5
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Tue Sep 6 01:26:00 2016 +0800
+
+    jflwef
+
+commit d618b0191ec0f0d00828e871931f3fc4c8048298
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Mon Sep 5 21:22:58 2016 +0800
+
+    [+]add python os control scripy
+
+commit d5705a5457e37e9c937d9addab9a32d67a2f8de3
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Sat Sep 3 12:12:33 2016 +0800
+
+    git log
+
+commit fdb1a71f0de9ab280e0fb1d3b8a523fef9728b30
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Sat Sep 3 12:08:15 2016 +0800
+
+    jlweif
+
+commit 9431a406c33442688953fbc8919754e7f2dc3fc8
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Sat Sep 3 12:06:03 2016 +0800
+
+    fha
+
+commit d2de4bb300c5dcb908c831584b8a46b3a7a7d921
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Sat Sep 3 09:02:32 2016 +0800
+
+    add maybe thing
+
+commit 618612ada977c3b50716c58b027f1640acfaf89e
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Sat Sep 3 08:59:52 2016 +0800
+
+    git command of git branch
+
+commit 292943d0963cda7c429a749dc71d4e45c1e78b69
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Wed Aug 31 23:46:51 2016 +0800
+
+    fwef
+
+commit 19be9bd5e4b0b8fdfae24d3677bd83e819c45137
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Wed Aug 31 21:44:22 2016 +0800
+
+    jflwef
+
+commit 5a73132f6e9d0eecb63cda77cbe2643174b6254e
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Mon Aug 29 22:44:23 2016 +0800
+
+    [*]add git commands
+
+commit 3a26f46cd9eef94135ef41b9ac1cb9bafac60c68
+Author: jinlongxinyang <jinlongxinyang@126.com>
+Date:   Mon Aug 29 22:14:13 2016 +0800
+
+    Create README.md
+
+commit 43fe462d0f0f7fade0ea55e11e3b3be0e1b24d00
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Mon Aug 29 22:00:48 2016 +0800
+
+    ils
+
+commit 22c81ad03418ec047f79a59ff333bdddcc49255c
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Mon Aug 29 22:00:01 2016 +0800
+
+    ils
+
+commit 92361c238bbf7b6723bf85786361eb5aebb4118a
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Mon Aug 29 21:38:11 2016 +0800
+
+    [+]git commands
+
+commit ea518e2af2ec844f93922afcdc30c1c23dc7ff60
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Sun Aug 28 23:57:17 2016 +0800
+
+    [*]delete chinese words
+
+commit bd42f1f1f226f0824c5de61c68d92e9dc44f6654
+Author: JinLongXinYang <jinlongxinyang@126.com>
+Date:   Sun Aug 28 23:53:18 2016 +0800
+
+    write a git test file
