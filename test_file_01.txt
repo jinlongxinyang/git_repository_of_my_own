@@ -26,4 +26,8 @@ branch_04 add 02, maked conflict
 
 what is wrong with me!!!!
 branch_04 add 01
+ddd<<<<<<< HEAD
 line added from repo B
+=======
+line added from ditributed repo A
+ddd>>>>>>> 8c87b740f727c367996097d1c6c286cef416972d
