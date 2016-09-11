@@ -27,3 +27,4 @@ branch_04 add 02, maked conflict
 what is wrong with me!!!!
 branch_04 add 01
 line added from ditributed repo A
+line added from distributed repo A 02. And will conflict.
